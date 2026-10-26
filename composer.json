@@ -1,0 +1,1 @@
+{"name":"dinilmusick/flokswp","type":"wordpress-plugin","autoload":{"psr-4":{"FloksWP\\":"src/"}},"require":{"php":">=8.1","dinilmusick/frnlwp":"^0.1","dinilmusick/klokswp":"^0.1"}}
