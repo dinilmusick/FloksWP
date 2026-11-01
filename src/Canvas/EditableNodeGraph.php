@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Canvas;
 final class EditableNodeGraph {
     private array $edges=[];

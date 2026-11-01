@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Canvas;
 final class Canvas {
     public function __construct(private array $nodes=[]){}

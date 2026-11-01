@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Theme;
 final class Theme {
     public function __construct(private array $components=[]){}

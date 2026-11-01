@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Element;
 use Elementor\Controls_Manager;
 final class Heading extends Element {

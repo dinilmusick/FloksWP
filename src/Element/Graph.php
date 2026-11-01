@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Element;
 final class Graph extends Element {
     public function get_name():string{return 'flokswp-graph';}

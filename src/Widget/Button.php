@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 namespace FloksWP\Widget;
 
 use Elementor\Controls_Manager;
